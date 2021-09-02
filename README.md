@@ -6,5 +6,5 @@
 
 <br>
 
-<img src="https://github.com/jfernandesdev/public/blob/a9982f7296ab5b6ea6079e1571775cc246e32437/w-signature.png" width='350px'>
+<img src="https://github.com/jfernandesdev/public/blob/a9982f7296ab5b6ea6079e1571775cc246e32437/w-signature.png" width='300px'>
 
