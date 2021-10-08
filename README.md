@@ -2,7 +2,7 @@
 - 🎓Recent graduate in Information Systems at the Federal University of Lavras
 - 🚀 I’m currently learning JS, TS, CSS/SCSS, ReactJS, NextJS, etc...
 - 📫 How to reach me jfernandes.dev@gmail.com
-- 🚧  portfolio under construction...  🚧
+- 🚧  portfolio always under construction... 🚧
 
 <br>
 
