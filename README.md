@@ -5,7 +5,7 @@
 - 🚧  portfolio always under construction... 🚧
 
 
-#### My Tag Cloud de 2021:
+#### My Tag Cloud of 2021:
 
 <img src="https://i.ibb.co/4SqWqgQ/tag-clound.png" border="0" width='500px' />
 
